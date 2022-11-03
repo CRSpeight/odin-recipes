@@ -1,0 +1,30 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+}
+
+img{    
+    display: block;
+    height: 200px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul, ol{
+    border: 1px solid black;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+
+}
+
+li{
+    padding: 3px 0 3px 0;
+}
